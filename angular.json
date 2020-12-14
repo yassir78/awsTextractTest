@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "awsTextRactTest"
+    }
+  },
+  "defaultProject": "awsTextRactTest",
+  "cli": {
+    "analytics": "695b7221-74c1-454b-b7e5-5a3d6b84e25f"
+  }
 }
